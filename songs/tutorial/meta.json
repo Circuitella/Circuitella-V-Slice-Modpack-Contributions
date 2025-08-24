@@ -1,0 +1,26 @@
+{
+	"color": "#FF0044",
+	"customValues": {
+		"stickerPack": "bonus-tutorial",
+		"ratings": "{ easy => 0, normal => 0, hard => 1 }",
+		"previewStart": "0",
+		"album": "volume1",
+		"noteStyle": "funkin",
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH",
+		"previewEnd": "15000"
+	},
+	"opponentModeAllowed": true,
+	"icon": "gf",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Tutorial",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}
